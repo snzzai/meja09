@@ -60,7 +60,7 @@
                     @endforeach
                 @else
                     <tr>
-                        <td colspan="5" class="text-center py-4 text-[FEA1A1]">Tidak ada data ditemukan.</td>
+                        <td colspan="5" class="text-center py-4 text-[#FEA1A1]">Tidak ada data ditemukan.</td>
                     </tr>
                 @endif
             </tbody>

@@ -1,4 +1,4 @@
-<div style= "bg-gradient-to-r from-[#F9FBE7] to-[#F0EDD4]">    
+<div style= "bg-gradient-to-r from-[#F9FBE7] to-[#F0EDD4];">    
     <div class="p-6 max-w-3xl mx-auto bg-white shadow-lg rounded-lg" style="background-color:#F9FBE7; text-color:#663434;">
         <h2 class="text-2xl font-semibold mb-6 text-center">{{ $id ? 'Edit Siswa' : 'Tambah Siswa' }}</h2>
 
